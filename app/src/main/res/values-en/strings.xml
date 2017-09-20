@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">People</string>
+    <string name="agregar">ADD</string>
+    <string name="apellido">Lastname</string>
+    <string name="cedula">Identification</string>
+    <string name="crear">Add People</string>
+    <string name="guardar">SAVE</string>
+    <string name="limpiar">CLEAN</string>
+    <string name="listar">List of people</string>
+    <string name="nombre">Name</string>
+    <string name="numero">No.</string>
+    <string name="mensaje_Exitoso">Person successfully saved!</string>
+</resources>
